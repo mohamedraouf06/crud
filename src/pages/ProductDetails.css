@@ -1,0 +1,10 @@
+img{
+  width: 300px;
+}
+.details{
+  text-align: center;
+  margin-top: 35px;
+}
+.details h3 {
+  margin: 20px 0;
+}

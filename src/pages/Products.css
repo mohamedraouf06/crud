@@ -1,0 +1,9 @@
+.products-table td{
+  max-width: 100%;
+}
+span{
+  color: orange;
+}
+image{
+  width: 50px;
+}
